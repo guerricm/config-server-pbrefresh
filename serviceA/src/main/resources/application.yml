@@ -19,7 +19,7 @@ management:
   endpoint:
     health:
       show-details: always
-#https://github.com/spring-cloud/spring-cloud-bus/issues/246 : MARCHE TOUJOURS :-(      
+#https://github.com/spring-cloud/spring-cloud-bus/issues/246 : MARCHE TOUJOURS PAS :-(      
     restart:
       enabled: false
     pause:
